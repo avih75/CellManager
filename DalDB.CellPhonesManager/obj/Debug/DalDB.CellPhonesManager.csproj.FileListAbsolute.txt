@@ -1,0 +1,2 @@
+C:\Users\AVI\source\repos\UI.CellPhonesManager\DalDB.CellPhonesManager\obj\Debug\DalDB.CellPhonesManager.csprojAssemblyReference.cache
+C:\Users\AVI\source\repos\UI.CellPhonesManager\DalDB.CellPhonesManager\obj\Debug\DalDB.CellPhonesManager.csproj.CoreCompileInputs.cache
